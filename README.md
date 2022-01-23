@@ -1,6 +1,6 @@
-# Python Level Up: Dockerize Your Python Apps
+# Python Debian Conda Flask Template
 
-## py-debian-conda-flask-template
+- Authored by Kyle Clark. Visit [devcultivation.com](https://devcultivation.com) for more content.
 
 ### Docker Instructions
 
